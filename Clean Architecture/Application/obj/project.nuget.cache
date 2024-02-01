@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "DYdvWUNbBQW9o6APmCx/myOaPsN/+n6Zq4aGL8cj3MD8TvhGUTAEftB0w+9n0rQwIf3CgaJEmf4k5Hlm7sZ6pQ==",
+  "success": true,
+  "projectFilePath": "F:\\Professional Project\\Clean Architecture\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rahat\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\rahat\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\rahat\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\rahat\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\rahat\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
